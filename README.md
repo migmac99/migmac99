@@ -1,6 +1,4 @@
-### Hi there 👋
-
-⚡ Fun fact: I love solving problems!
+### ⚡ Fun fact: I love solving problems!
 
 
 <!--
