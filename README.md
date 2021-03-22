@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-MiguelMatos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirgn)](https://www.linkedin.com/in/miguel-matos-022291134/)
 
-[![Links By Migmac]https://img.shields.io/badge/migmac99-blueviolet](https://migmac.alltway.com)
+[![Links By Migmac](https://img.shields.io/badge/migmac99-blueviolet)](https://migmac.alltway.com)
 
 Language Stats             |  User Stats
 :-------------------------:|:-------------------------:
