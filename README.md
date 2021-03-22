@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I love solving problems!
+
+
 <!--
 **migmac99/migmac99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
