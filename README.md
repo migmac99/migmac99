@@ -1,6 +1,6 @@
 ### ⚡ Fun fact: I love solving problems!
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel Matos-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirgn)](https://www.linkedin.com/in/miguel-matos-022291134/)
 <!--
 **migmac99/migmac99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
