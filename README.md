@@ -1,4 +1,4 @@
-### ⚡ Fun fact: I love solving problems!
+### ⚡ Fun fact: I love solving problems! ⚡
 
 [![Links By Migmac](https://img.shields.io/badge/Links_by-Migmac-dc3545?style=flat-square)](https://migmac.alltway.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel_Matos-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirgn)](https://www.linkedin.com/in/miguelmatos99)
