@@ -6,10 +6,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=migmac99&langs_count=10&layout=compact&theme=dark&hide_title=true&exclude_repo=DLND,elmctron)
 
-
 ### CURRENT STACK
 [![Bun](https://img.shields.io/badge/bun-%23EEE.svg?style=for-the-badge&logo=bun&logoColor=000000)](https://bun.sh/)
 [![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-%23EEE.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)](https://developers.cloudflare.com/pages)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)](https://developers.cloudflare.com/workers/)
@@ -22,10 +22,10 @@
 
 ##### THE CORE
 [![JavaScript](https://img.shields.io/badge/javascript-%23EEE.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/html5-%23EEE.svg?style=for-the-badge&logo=html5&logoColor=E34F26)](https://html.com/html5/)
 [![CSS3](https://img.shields.io/badge/css3-%23EEE.svg?style=for-the-badge&logo=css3&logoColor=1572B6)](https://www.w3.org/TR/css3-roadmap/)
 [![Markdown](https://img.shields.io/badge/markdown-%23EEE.svg?style=for-the-badge&logo=markdown&logoColor=000000)](https://daringfireball.net/projects/markdown/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![Sass](https://img.shields.io/badge/Sass-%23EEE.svg?style=for-the-badge&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
 [![C Sharp](https://img.shields.io/badge/csharp-%23EEE.svg?style=for-the-badge&logo=csharp&logoColor=512BD4)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
