@@ -16,8 +16,6 @@
 [![Cloudflare Durable Objects](https://img.shields.io/badge/Cloudflare-Durable%20Objects-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white&logoColor=f38020)](https://developers.cloudflare.com/durable-objects/)
 [![Cloudflare KV](https://img.shields.io/badge/Cloudflare-KV-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)](https://developers.cloudflare.com/kv/)
 [![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)](https://developers.cloudflare.com/r2/)
-
-##### NEXT UP / INTERESTED
 [![Cloudflare D1](https://img.shields.io/badge/Cloudflare-D1-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)](https://developers.cloudflare.com/d1/)
 
 ##### THE CORE
