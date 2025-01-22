@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel_Matos-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirgn)](https://www.linkedin.com/in/miguelmatos99)
 [![Games By Migmac](https://img.shields.io/badge/Games_by-Migmac-dc3545?style=flat-square)](https://alltway.com/games)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=migmac99&langs_count=10&layout=compact&theme=dark&hide_title=true&exclude_repo=DLND,elmctron)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=migmac99&langs_count=12&layout=compact&theme=dark&hide_title=true&exclude_repo=DLND,elmctron)
 
 ### CURRENT STACK
 [![Bun](https://img.shields.io/badge/bun-%23EEE.svg?style=for-the-badge&logo=bun&logoColor=000000)](https://bun.sh/)
