@@ -6,6 +6,14 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=migmac99&langs_count=10&layout=compact&theme=dark&hide_title=true&exclude_repo=DLND,elmctron)
 
+<p align="center">
+  <a href="#">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=migmac99&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
+  </a>
+</p>
+
 ### CURRENT STACK
 [![Bun](https://img.shields.io/badge/bun-%23EEE.svg?style=for-the-badge&logo=bun&logoColor=000000)](https://bun.sh/)
 [![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
